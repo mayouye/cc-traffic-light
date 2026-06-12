@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+*.spec
+
+# Claude Code 本地配置备份
+settings.json.bak
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
