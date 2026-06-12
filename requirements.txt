@@ -1,2 +1,1 @@
-pystray>=0.19
-pillow>=10.0
+PySide6>=6.6
